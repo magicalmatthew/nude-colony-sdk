@@ -492,7 +492,7 @@
         "affectsGlobalScope": true
       },
       "../src/contracts/addresses/goerli.json": {
-        "version": "a2f0927e4b585afc4c67dd07a33e35d95bd6025bf938510e453ca2c08050667a",
+        "version": "bfc23222069a5bb2ccde475cb35e72c6777fe856ff2de0c97cf96ebe8691b32b",
         "signature": "88de84f31fee8882cd5f7608fc59bd17f61f7000e754c87f0916e9d699a47740",
         "affectsGlobalScope": true
       },
