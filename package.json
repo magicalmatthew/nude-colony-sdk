@@ -1,0 +1,15 @@
+{
+  "name": "nude-colony-sdk",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "dependencies": {
+    "bn.js": "^5.2.0",
+    "typescript": "^4.2.3",
+    "web3": "^1.3.4",
+    "web3-eth-contract": "^1.3.4"
+  }
+}
